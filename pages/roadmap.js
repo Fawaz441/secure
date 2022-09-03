@@ -1,6 +1,6 @@
 import Image from "next/image";
-import Bubble2 from "../assets/svgs/Bubble 2.svg";
-import Stages from "../components/roadmap/Stages";
+import Bubble2 from "../assets/svgs/bubble2.svg";
+import Stages from "../components/roadmap/stages";
 
 const Roadmap = () => {
   return (

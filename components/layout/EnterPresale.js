@@ -1,11 +1,11 @@
 import Image from "next/image";
 import Link from "next/link";
-import Bubble2 from "../../assets/svgs/Bubble 2.svg";
-import coinGeckom from "../../assets/Coingecko-m.svg";
-import coinMarketCap from "../../assets/CoinmarketCap.svg";
-import PancakeSwap from "../../assets/PancakeSwap.svg";
-import PancakeSwapM from "../../assets/PancakeSwap-m.svg";
-import coinMarketCapM from "../../assets/CoinmarketCap-m.svg";
+import Bubble2 from "../../assets/svgs/bubble2.svg";
+import coinGeckom from "../../assets/coingecko-m.svg";
+import coinMarketCap from "../../assets/coinmarketcap.svg";
+import PancakeSwap from "../../assets/pancakeswap.svg";
+import PancakeSwapM from "../../assets/pancakeswap-m.svg";
+import coinMarketCapM from "../../assets/coinmarketcap-m.svg";
 
 const EnterPresale = () => {
   return (

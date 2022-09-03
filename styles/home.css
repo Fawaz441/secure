@@ -24,8 +24,8 @@ a span {
 }
 
 .hero {
-    background-image: url("../assets/images/backgrounds/BG Blur-1.png"),
-        url("../assets/images/backgrounds/BG\ Blur.png");
+    background-image: url("../assets/images/backgrounds/bgblur1.png"),
+        url("../assets/images/backgrounds/bgblur.png");
     background-repeat: no-repeat, no-repeat;
     background-position: right center, left center;
 }
@@ -155,7 +155,7 @@ a span {
 .secure {
     padding-bottom: 18rem;
     background-image: url("../assets/images/backgrounds/wavy-line.png"),
-        url("../assets/images/backgrounds/BG\ Blur-1.png"), url("../assets/images/backgrounds/BG\ Blur.png");
+        url("../assets/images/backgrounds/bgblur1.png"), url("../assets/images/backgrounds/bgblur.png");
     background-repeat: no-repeat;
     background-size: 100%, auto, auto;
     background-position: bottom center, right top, left top;

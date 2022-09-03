@@ -1,5 +1,5 @@
 .about {
-    background: url("../assets/images/backgrounds/about.png"), url("../assets/svgs/Bubble.svg");
+    background: url("../assets/images/backgrounds/about.png"), url("../assets/svgs/bubble.svg");
     background-repeat: no-repeat, no-repeat;
     background-position: center, 5% 53%;
     background-size: cover, auto;

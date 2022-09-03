@@ -1,7 +1,7 @@
 import Image from "next/image";
-import UserFame from "../assets/svgs/UserFame.svg";
-import UserFame2 from "../assets/svgs/UserFame2.svg";
-import UserFame3 from "../assets/svgs/UserFame3.svg";
+import UserFame from "../assets/svgs/userfame.svg";
+import UserFame2 from "../assets/svgs/userfame2.svg";
+import UserFame3 from "../assets/svgs/userfame3.svg";
 
 const Ecosystem = () => {
   return (

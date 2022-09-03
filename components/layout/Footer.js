@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import Logo from "../../assets/svgs/Logo.svg";
+import Logo from "../../assets/svgs/logo.svg";
 import Telegram from "../../assets/svgs/social/telegram.svg";
 import Twitter from "../../assets/svgs/social/twitter.svg";
 

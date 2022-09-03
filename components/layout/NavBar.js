@@ -3,7 +3,7 @@ import Link from "next/link";
 import Image from "next/image";
 import clsx from "classnames";
 import LogoMobile from "../../assets/svgs/logo-mobile.svg";
-import Logo from "../../assets/svgs/Logo.svg";
+import Logo from "../../assets/svgs/logo.svg";
 import FiMenu from "../../assets/svgs/fi_menu.svg";
 
 const NavBar = () => {

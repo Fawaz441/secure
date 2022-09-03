@@ -1,5 +1,5 @@
 import Link from "next/link";
-import SeenOn from "../components/general/SeenOn";
+import SeenOn from "../components/general/seenon";
 
 const About = () => {
   return (

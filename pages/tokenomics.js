@@ -1,7 +1,7 @@
 import Image from "next/image";
-import saleChart from "../assets/svgs/saleChart.svg";
-import ProceedChart from "../assets/svgs/proceedChart.svg";
-import Bubble2 from "../assets/svgs/Bubble 2.svg";
+import saleChart from "../assets/svgs/salechart.svg";
+import ProceedChart from "../assets/svgs/proceedchart.svg";
+import Bubble2 from "../assets/svgs/bubble2.svg";
 
 const stages = [
   {

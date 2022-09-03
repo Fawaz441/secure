@@ -1,4 +1,4 @@
-import WalletModal from "../components/modals/WalletModal";
+import WalletModal from "../components/modals/walletmodal";
 
 const Buy = () => {
   return (
