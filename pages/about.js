@@ -1,3 +1,4 @@
+import Link from "next/link";
 import SeenOn from "../components/general/SeenOn";
 
 const About = () => {
@@ -17,9 +18,9 @@ const About = () => {
                 successfully and continuously for the duration specified by the
                 user.
               </p>
-              <a className="btn mt-6" href="/buy">
-                Buy Presale
-              </a>
+              <Link href="/buy">
+                <div className="btn mt-6">Buy Presale</div>
+              </Link>
             </div>
           </div>
         </div>

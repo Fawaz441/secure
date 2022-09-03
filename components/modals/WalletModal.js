@@ -1,5 +1,6 @@
 import { useState } from "react";
 import Image from "next/image";
+import Link from "next/link";
 import Modal from "./Modal";
 import Meta from "../../assets/svgs/meta.svg";
 import Wallet from "../../assets/svgs/wallet.svg";
@@ -22,15 +23,15 @@ const WalletModal = () => {
               </h2>
               <div className=" img-container">
                 <div>
-                  <a href="/afterconnect">
+                  <Link href="/afterconnect">
                     <Image src={Meta} alt="logo" className="img" />
-                  </a>
+                  </Link>
                   <p className="text-white">MetaMask</p>
                 </div>
                 <div>
-                  <a href="/afterconnect">
+                  <Link href="/afterconnect">
                     <Image src={Wallet} alt="logo" className="img" />
-                  </a>
+                  </Link>
                   <p className="text-white">Wallet Connect</p>
                 </div>
               </div>
