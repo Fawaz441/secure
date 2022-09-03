@@ -1,7 +1,7 @@
-import BnbModal from "../components/modals/bnbmodal";
-import CardModal from "../components/modals/cardmodal";
-import EthModal from "../components/modals/ethmodal";
-import UsdtModal from "../components/modals/usdtmodal";
+import BnbModal from "../components/modals/BnBModal";
+import CardModal from "../components/modals/CardModal";
+import EthModal from "../components/modals/EthModal";
+import UsdtModal from "../components/modals/UsdtModal";
 
 const AfterConnect = () => {
   return (

@@ -1,4 +1,4 @@
-import FaqBox from "../components/faqs/faqbox";
+import FaqBox from "../components/faqs/FaqBox";
 
 const faqs = [
   {

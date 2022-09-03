@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Modal from "./modal";
+import Modal from "./Modal";
 
 const BnbModal = () => {
   const [show, setShow] = useState(false);

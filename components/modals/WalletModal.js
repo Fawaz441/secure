@@ -1,7 +1,7 @@
 import { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
-import Modal from "./modal";
+import Modal from "./Modal";
 import Meta from "../../assets/svgs/meta.svg";
 import Wallet from "../../assets/svgs/wallet.svg";
 

@@ -1,11 +1,11 @@
 import Image from "next/image";
 import Link from "next/link";
 import Bubble2 from "../../assets/svgs/bubble2.svg";
-import coinGeckom from "../../assets/coingecko-m.svg";
-import coinMarketCap from "../../assets/coinmarketcap.svg";
-import PancakeSwap from "../../assets/pancakeswap.svg";
-import PancakeSwapM from "../../assets/pancakeswap-m.svg";
-import coinMarketCapM from "../../assets/coinmarketcap-m.svg";
+import coinGeckom from "../../assets/svgs/coingecko-m.svg";
+import coinMarketCap from "../../assets/svgs/coinmarketcap.svg";
+import PancakeSwap from "../../assets/svgs/pancakeswap.svg";
+import PancakeSwapM from "../../assets/svgs/pancakeswap-m.svg";
+import coinMarketCapM from "../../assets/svgs/coinmarketcap-m.svg";
 
 const EnterPresale = () => {
   return (
@@ -22,7 +22,7 @@ const EnterPresale = () => {
         </Link>
         <div className="brands mt-6 md:mt-16">
           <Image
-            src="../assets/img/Coingecko.svg"
+            src={coinGeckom}
             alt="Coin gecko"
             className="hidden md:block"
           />
